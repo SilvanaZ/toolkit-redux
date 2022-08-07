@@ -23,4 +23,4 @@ export const todosApi = createApi({
 
 })
 
-export const { useGetTodosQuery, useGetTodoQuery, } = todosApi;
+export const { useGetTodosQuery, useGetTodoQuery } = todosApi;
